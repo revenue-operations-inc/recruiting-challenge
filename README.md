@@ -1,4 +1,16 @@
-# Recruiting Exercise — Outbound Agent System
+# ⚠️ DEPRECATED — Recruiting Exercise — Outbound Agent System
+
+> **This repository is deprecated.** We've shifted from automated recruiting challenges to relationship-based engagement — meeting the right people through genuine connections rather than technical exercises.
+
+## Why this change?
+
+We found that relationship-building produces better long-term outcomes than automated recruiting tests. Getting to know people through conversations, understanding their values and motivations, and building genuine connections leads to stronger teams.
+
+---
+
+## Original Exercise Description
+
+*Below is the original exercise preserved for historical context:*
 
 ## The exercise
 

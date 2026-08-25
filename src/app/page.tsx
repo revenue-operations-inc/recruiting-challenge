@@ -6,7 +6,7 @@ export default function Home() {
     <div className="min-h-screen bg-[#f6f5f4]">
       <header className="sticky top-0 z-50 flex w-full items-center justify-between gap-4 border-b border-gray-200/70 bg-[#f6f5f4] py-4 pl-4 pr-6 sm:pl-6 sm:pr-8 md:pl-8 md:pr-12 lg:pl-10 lg:pr-16">
         <span className="inline-flex h-10 items-center font-signifier text-[21px] leading-none tracking-[-0.015em] text-gray-900">
-          Revenue Operations Inc — Recruiting Exercise
+          ⚠️ DEPRECATED — Revenue Operations Inc — Recruiting Exercise
         </span>
       </header>
 
@@ -22,6 +22,20 @@ export default function Home() {
             "[&>p+h3]:mt-16 [&>ul+h3]:mt-16",
           )}
         >
+          <div className="mb-8 rounded-lg border border-amber-300 bg-amber-50 p-5">
+            <h2 className="mb-3 font-signifier text-2xl font-medium text-amber-900">
+              ⚠️ This Project is Deprecated
+            </h2>
+            <p className="mb-3 text-amber-800">
+              <strong>We've shifted from automated recruiting challenges to relationship-based engagement.</strong>
+              Instead of technical exercises, we now focus on meeting the right people through genuine connections,
+              conversations, and understanding shared values.
+            </p>
+            <p className="text-amber-800">
+              This repository is preserved for historical context only.
+            </p>
+          </div>
+
           <Heading2 className="font-medium text-gray-900 [text-wrap:initial]">
             Design a sub-agent system for outbound.
           </Heading2>
